@@ -21,4 +21,9 @@ body{
     margin-top: 50px;
     box-shadow: 4px 3px 5px ;
     border-radius: 10px;
+    color: rgb(185, 185, 59);
+}
+
+.title_small{
+    font-size: 20px;
 }
