@@ -5,7 +5,7 @@
 }
 
 body {
-  background-color: #ccc;
+  background-color: #6b6b66;
 }
 .container {
   max-width: 900px;
@@ -18,7 +18,7 @@ body {
   background-color: black;
   margin: 0 auto;
   margin-top: 50px;
-  box-shadow: 4px 3px 5px rgba(1, 1, 1, 0.1);
+  box-shadow: 4px 3px 5px rgba(207, 190, 6, 0.845,);
   border-radius: 10px;
   color: rgb(185, 185, 59);
 }
